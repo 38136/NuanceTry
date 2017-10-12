@@ -1,0 +1,16 @@
+{
+  "name": "firstbotnuance",
+  "version": "1.0.0",
+  "description": "nuance first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anitha Senthilnathan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "nuance": "^1.1.1",
+    "unirest": "^0.5.1"
+  }
+}
